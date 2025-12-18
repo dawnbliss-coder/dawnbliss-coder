@@ -68,6 +68,14 @@ Full-stack heist management system with dashboards and analytics.
 
 ---
 
+## GitHub Stats
+
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawnbliss-coder&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
 ## Certification & Training
 
 **Finlatics – Data Science & Machine Learning Program** (Summer 2025)  
