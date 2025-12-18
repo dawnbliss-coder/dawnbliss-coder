@@ -15,7 +15,7 @@
 - 📊 Dean's List 3 for Academic Excellence
 - 🏆 JEE Main: 2032 | JEE Advanced: 5130
 - 💻 Systems Programming Enthusiast | Open Source Contributor
-- 📍 Based in Jaipur, Rajasthan & Hyderabad, Telangana
+- 📍 Jaipur, Rajasthan & Hyderabad, Telangana
 
 ## 🛠️ Tech Stack
 
@@ -73,7 +73,7 @@ Full-stack heist management system with Flask, MySQL, Bootstrap 5, and Chart.js 
 
 | Platform | Rating | Rank | Problems |
 |----------|--------|------|----------|
-| 🟨 **LeetCode** | 1476 | 545,028 | 250+ |
+| 🟨 **LeetCode** | 1476 | 545,028 | 200+ |
 | 🔵 **Codeforces** | 1219 | - | - |
 | 🟤 **CodeChef** | 1277 | 1,643 | - |
 
