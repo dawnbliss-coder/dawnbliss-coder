@@ -82,7 +82,7 @@ Full-stack heist management system with Flask, MySQL, Bootstrap 5, and Chart.js 
   - [YouTube Analytics Insight Project](https://github.com/dawnbliss-coder/finlatics_YouTube-Analytics-Insight-Project)
   - [Sales Prediction Using Linear Regression](https://github.com/dawnbliss-coder/finlatics_Sales-Prediction-Using-Linear-Regression)
 
-## 💡 What I'm Currently Working On
+## What I'm Currently Working On
 
 - Building systems-level projects with C and exploring OS internals
 - Learning advanced distributed systems concepts and consensus algorithms
