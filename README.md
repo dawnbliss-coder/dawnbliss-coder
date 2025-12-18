@@ -12,7 +12,7 @@
 ## 🎓 About Me
 
 - 🎯 B.Tech in **Computer Science** @ **IIIT Hyderabad** (2024-2028)
-- 📊 **CGPA: 9.20/10.0** | Dean's List 3 for Academic Excellence
+- 📊 Dean's List 3 for Academic Excellence
 - 🏆 JEE Main: 2032 | JEE Advanced: 5130
 - 💻 Systems Programming Enthusiast | Open Source Contributor
 - 📍 Based in Jaipur, Rajasthan & Hyderabad, Telangana
