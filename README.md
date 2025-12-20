@@ -13,11 +13,11 @@ Jaipur, Rajasthan • Hyderabad, Telangana
 
 ## About Me
 
-- B.Tech in **Computer Science** @ **IIIT Hyderabad** (2024–2028)  
-- Dean's List 3 for Academic Excellence  
-- JEE Main: 2032 · JEE Advanced: 5130  
-- Systems programming, operating systems, networking, and open source  
-- Based in Jaipur & Hyderabad  
+- Languages: Python, C, C++, SQL, JavaScript, TypeScript, x86-64 Assembly
+- Web Frameworks: Next.js 15, React, Tailwind CSS, Flask, REST APIs, HTML, CSS
+- Databases & Systems: MongoDB, MySQL, Unix/Linux, Distributed Systems, TCP/IP
+- ML & Data Science: LangChain, Scikit-learn, NumPy, Pandas
+- Tools: Git, Postman, API Integration, Socket Programming  
 
 ---
 
@@ -27,34 +27,6 @@ Jaipur, Rajasthan • Hyderabad, Telangana
 **Systems & Databases:** Operating Systems, Distributed Systems, xv6 kernel, TCP/IP, Unix/Linux  
 **ML/Data Science:** NumPy, Pandas, Matplotlib, Scikit-learn  
 **Tools & Frameworks:** Flask, MongoDB, Git, Postman, Bootstrap  
-
----
-
-## Featured Projects
-
-### [minidb – Custom Database System](https://github.com/dawnbliss-coder/minidb)
-Built a lightweight database engine with SQL query parsing, B+ tree indexing, and transaction management from scratch.  
-**Tech:** C, custom file-based storage, B+ trees, basic SQL engine.
-
-### [Distributed File System](https://github.com/dawnbliss-coder/Distributed-File-System)
-Multi-user distributed file system with NameServer coordination, sentence-level locking, concurrent editing, ACLs, and automatic versioning with UNDO.  
-**Tech:** C, TCP/IP sockets, Unix/Linux, file system design, concurrency.
-
-### [xv6-riscv OS Enhancements](https://github.com/dawnbliss-coder/xv6-riscv)
-Extended MIT’s xv6 OS with custom system calls and implemented process scheduling algorithms (FIFO, Clock).  
-**Tech:** C, xv6-riscv, OS internals, process scheduling.
-
-### [C-Shell Implementation](https://github.com/dawnbliss-coder/C-shell)
-Unix shell supporting piping, I/O redirection, background processes, signal handling, and command history.  
-**Tech:** C, Unix/Linux syscalls, process control, signals.
-
-### [Custom Networking Protocol (RUDP)](https://github.com/dawnbliss-coder/networking)
-Implemented reliable UDP with custom handshake, congestion control, and multi-threaded server architecture.  
-**Tech:** C, UDP/TCP/IP, multithreading, networking protocols.
-
-### [Bellaciao Heist System](https://github.com/dawnbliss-coder/bellaciao-heist-system)
-Full-stack heist management system with dashboards and analytics.  
-**Tech:** Python, Flask, MySQL, Bootstrap 5, Chart.js.
 
 ---
 
