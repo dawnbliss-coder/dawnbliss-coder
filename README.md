@@ -11,16 +11,6 @@ Jaipur, Rajasthan • Hyderabad, Telangana
 
 ---
 
-## About Me
-
-- Languages: Python, C, C++, SQL, JavaScript, TypeScript, x86-64 Assembly
-- Web Frameworks: Next.js 15, React, Tailwind CSS, Flask, REST APIs, HTML, CSS
-- Databases & Systems: MongoDB, MySQL, Unix/Linux, Distributed Systems, TCP/IP
-- ML & Data Science: LangChain, Scikit-learn, NumPy, Pandas
-- Tools: Git, Postman, API Integration, Socket Programming  
-
----
-
 ## Tech Stack
 
 **Languages:** C, C++, Python, JavaScript, SQL, x86-64 Assembly  
@@ -62,7 +52,8 @@ Jaipur, Rajasthan • Hyderabad, Telangana
 ## What I'm Currently Working On
 
 - Building systems-level projects in C and exploring OS internals  
-- Learning advanced distributed systems concepts and consensus algorithms  
+- Learning advanced distributed systems concepts and consensus algorithms
+- Devloping full stack development projects.  
 - Contributing to open-source projects  
 - Ask me about **C, Operating Systems, Distributed Systems, or Data Structures**  
 
