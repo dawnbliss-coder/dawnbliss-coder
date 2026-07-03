@@ -1,69 +1,70 @@
-# Hi there, I'm Priyanka Agarwal 👋
-
-**B.Tech in Computer Science @ IIIT Hyderabad (2024–2028)**  
-Systems Programming Enthusiast • Open Source Contributor  
-Jaipur, Rajasthan • Hyderabad, Telangana  
-
-[GitHub](https://github.com/dawnbliss-coder) ·
-[LinkedIn](https://linkedin.com/in/priyanka-agarwal-8a0898306) ·
-[LeetCode](https://leetcode.com/u/priyanka42875/) ·
-[email](mailto:priyanka.agarwal@students.iiit.ac.in)
-
----
-
-## Tech Stack
-
-**Languages:** C, C++, Python, JavaScript, SQL, x86-64 Assembly  
-**Systems & Databases:** Operating Systems, Distributed Systems, xv6 kernel, TCP/IP, Unix/Linux  
-**ML/Data Science:** NumPy, Pandas, Matplotlib, Scikit-learn  
-**Tools & Frameworks:** Flask, MongoDB, Git, Postman, Bootstrap  
-
----
-
-## Competitive Programming
-
-| Platform     | Rating | Rank    | Problems |
-|-------------|--------|---------|----------|
-| LeetCode    | 1476   | 55k+    | 200+     |
-| Codeforces  | 1219   | –       | –        |
-| CodeChef    | 1277   | 1,643   | –        |
-
----
-
-## GitHub Stats
-
 <div align="center">
-  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawnbliss-coder&layout=compact&theme=tokyonight&hide_border=true)
+
+# Priyanka Agarwal
+
+B.Tech Computer Science, IIIT Hyderabad (2024 - 2028)
+Undergraduate Researcher, SERC Lab, IIIT Hyderabad
+
+Jaipur, Rajasthan | Hyderabad, Telangana
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dawnbliss-coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanka-agarwal-8a0898306)
+[![Email](https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanka.agarwal@students.iiit.ac.in)
 
 </div>
 
-## Certification & Training
+---
 
-**Finlatics – Data Science & Machine Learning Program** (Summer 2025)  
-- Completed 2‑month industry program on data preprocessing, EDA, statistical analysis, and supervised/unsupervised ML  
-- Earned Work Experience Certificate, Python & ML Proficiency Certificate, and Letter of Recommendation  
-- Projects:  
-  - [YouTube Analytics Insight Project](https://github.com/dawnbliss-coder/finlatics_YouTube-Analytics-Insight-Project)  
-  - [Sales Prediction Using Linear Regression](https://github.com/dawnbliss-coder/finlatics_Sales-Prediction-Using-Linear-Regression)  
+### About
+
+I work on full stack projects, system design, and machine learning pipelines. Currently focused on research in automated theorem proving, verified using Lean, alongside building full stack applications that integrate ML-driven features.
 
 ---
 
-## What I'm Currently Working On
+### Tech Stack
 
-- Building systems-level projects in C and exploring OS internals  
-- Learning advanced distributed systems concepts and consensus algorithms
-- Devloping full stack development projects.  
-- Contributing to open-source projects  
-- Ask me about **C, Operating Systems, Distributed Systems, or Data Structures**  
+**Languages**
+C, C++, Python, JavaScript, SQL
+
+**Frameworks and Web**
+React, Next.js, Node.js, Express.js, Django, Flask, HTML, CSS, REST APIs
+
+**AI and ML**
+Scikit-learn, NumPy, Pandas
+
+**Databases**
+MySQL, MongoDB
+
+**Tools**
+Git, Postman
 
 ---
 
-## Let's Connect
+### Currently Working On
 
-- Email: [priyanka.agarwal@students.iiit.ac.in](mailto:priyanka.agarwal@students.iiit.ac.in)  
-- LinkedIn: [priyanka-agarwal-8a0898306](https://linkedin.com/in/priyanka-agarwal-8a0898306)  
-- GitHub: [@dawnbliss-coder](https://github.com/dawnbliss-coder)  
+- Research on automating theorem proving, with verification in Lean
+- Building full stack projects with system design focus
+- Implementing ML pipelines within full stack applications for advanced features
+- Learning and applying AI concepts
 
 ---
-From [dawnbliss-coder](https://github.com/dawnbliss-coder)
+
+### Competitive Programming
+
+Codeforces Specialist, rating 1408
+
+---
+
+<div align="center">
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dawnbliss-coder&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9c9c9)
+
+</div>
+
+---
+
+<div align="center">
+
+[github.com/dawnbliss-coder](https://github.com/dawnbliss-coder) &nbsp;|&nbsp; [linkedin.com/in/priyanka-agarwal](https://linkedin.com/in/priyanka-agarwal-8a0898306) &nbsp;|&nbsp; priyanka.agarwal@students.iiit.ac.in
+
+</div>
