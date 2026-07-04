@@ -1,9 +1,6 @@
 <div align="center">
 
-<h1 align="center">
-  <span style="color:#D8B98B;">Priyanka Agarwal</span>
-</h1>
-
+![Priyanka Agarwal](https://img.shields.io/badge/Priyanka%20Agarwal-D8B98B?style=for-the-badge)
 B.Tech Computer Science, IIIT Hyderabad (2024 - 2028)
 Undergraduate Researcher, SERC Lab, IIIT Hyderabad
 Jaipur, Rajasthan | Hyderabad, Telangana
