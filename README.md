@@ -7,10 +7,6 @@ Undergraduate Researcher, SERC Lab, IIIT Hyderabad
 
 Jaipur, Rajasthan | Hyderabad, Telangana
 
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dawnbliss-coder)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanka-agarwal-8a0898306)
-[![Email](https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanka.agarwal@students.iiit.ac.in)
-
 </div>
 
 ---
@@ -31,9 +27,11 @@ Building full stack projects, system design, and ML pipelines. Currently researc
 | Tools | ![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=flat-square&logo=postman&logoColor=white) |
  
 </div>
-
+---
 <div align="center">
 
-[github.com/dawnbliss-coder](https://github.com/dawnbliss-coder) &nbsp;|&nbsp; [linkedin.com/in/priyanka-agarwal](https://linkedin.com/in/priyanka-agarwal-8a0898306) &nbsp;|&nbsp; priyanka.agarwal@students.iiit.ac.in
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dawnbliss-coder)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/priyanka-agarwal-8a0898306)
+[![Email](https://img.shields.io/badge/Email-2b2b2b?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priyanka.agarwal@students.iiit.ac.in)
 
 </div>
