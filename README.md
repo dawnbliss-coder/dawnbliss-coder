@@ -27,7 +27,7 @@ Building full stack projects, system design, and ML pipelines. Currently researc
 | Tools | ![Git](https://img.shields.io/badge/Git-1a1a1a?style=flat-square&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-1a1a1a?style=flat-square&logo=postman&logoColor=white) |
  
 </div>
----
+
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dawnbliss-coder)
