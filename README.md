@@ -1,6 +1,8 @@
 <div align="center">
 
-# Priyanka Agarwal
+<h1 align="center">
+  <span style="color:#D8B98B;">Priyanka Agarwal</span>
+</h1>
 
 B.Tech Computer Science, IIIT Hyderabad (2024 - 2028)
 Undergraduate Researcher, SERC Lab, IIIT Hyderabad
