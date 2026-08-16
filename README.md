@@ -5,7 +5,7 @@
 
 B.Tech Computer Science, IIIT Hyderabad (2024 - 2028)
 Undergraduate Researcher, SERC Lab, IIIT Hyderabad
-Jaipur, Rajasthan | Hyderabad, Telangana
+Hyderabad, Telangana | Jaipur, Rajasthan
 
 </div>
 
